@@ -2,131 +2,132 @@
   "business": {
     "name": "Reyes Maids, by Monarca Home Services",
     "shortName": "Reyes Maids",
-    "tagline": "Dallas’s Trusted Home Cleaning Experts",
+    "tagline": "Dallas’s Trusted House Cleaning Experts",
     "niche": "House Cleaning",
     "phone": "(682) 485-8592",
     "address": "1910 Pacific Ave, Dallas, TX 75201",
     "city": "Dallas, TX",
-    "hours": "Mon–Fri: 8am–6pm | Sat: 9am–4pm | Sun: Closed",
-    "ctaLabel": "Get a Free Quote",
+    "hours": "Mon–Fri 8am–6pm, Sat 9am–4pm, Sun Closed",
+    "ctaLabel": "Book Your Cleaning",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Best House Cleaning in Dallas, TX | Reyes Maids by Monarca Home Services",
-    "description": "Reyes Maids offers top-rated house cleaning in Dallas, TX. Professional, eco-friendly, and reliable home cleaning services. Free quote."
+    "title": "Reyes Maids | Top-Rated House Cleaning in Dallas, TX | Monarca Home Services",
+    "description": "Reyes Maids offers professional house cleaning in Dallas, TX. Bonded, insured, eco-friendly. Get your free quote today!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas’s Premier Cleaning Service",
-      "headline": "Your Home, Sparkling Clean – Every Time",
-      "subheadline": "Trusted by Dallas homeowners for thorough, reliable, and eco-friendly house cleaning.",
+      "eyebrow": "Dallas's Premier Cleaning Service",
+      "headline": "Your Home, Perfectly Cleaned – Every Time",
+      "subheadline": "Professional, reliable, and eco-friendly house cleaning tailored to your schedule.",
       "primaryCta": "Get a Free Quote",
-      "secondaryCta": "Call (682) 485-8592"
+      "secondaryCta": "See Our Services"
     },
     "stats": [
       {
-        "value": "200+",
+        "value": "500+",
         "label": "Homes Cleaned"
       },
       {
-        "value": "4.2",
+        "value": "98%",
+        "label": "Satisfaction Rate"
+      },
+      {
+        "value": "4.9",
         "label": "Average Rating"
       },
       {
-        "value": "3+",
+        "value": "10+",
         "label": "Years Experience"
-      },
-      {
-        "value": "100%",
-        "label": "Satisfaction Guarantee"
       }
     ],
     "featureSections": [
       {
         "eyebrow": "Eco-Friendly Cleaning",
-        "title": "Safe for Your Family & Pets",
-        "body": "We use non-toxic, biodegradable products that leave your home spotless without harsh chemicals. Perfect for households with children and pets.",
+        "title": "Safe for Your Family & the Planet",
+        "body": "We use only non-toxic, biodegradable products that are tough on dirt but gentle on your home and the environment.",
         "bullets": [
-          "EPA Safer Choice certified products",
-          "Hypoallergenic and fragrance-free options",
-          "Microfiber cloths reduce waste"
+          "Green certified cleaning solutions",
+          "Hypoallergenic and pet-safe",
+          "No harsh chemicals or fumes"
         ],
         "reverse": false,
-        "cardLabel": "Green Cleaning",
-        "cardTitle": "Eco-Friendly",
-        "cardBody": "Our green cleaning solutions protect your family and the planet."
+        "cardLabel": "Green Promise",
+        "cardTitle": "100% Eco-Friendly",
+        "cardBody": "Every cleaning leaves your home sparkling without compromising your health."
       },
       {
-        "eyebrow": "Detailed & Thorough",
-        "title": "Every Corner, Every Surface",
-        "body": "Our trained team follows a 50-point checklist to ensure no spot is missed. From baseboards to ceiling fans, we go above and beyond.",
+        "eyebrow": "Customizable Plans",
+        "title": "Cleaning That Fits Your Life",
+        "body": "Whether you need a one-time deep clean or weekly maintenance, we tailor every visit to your preferences.",
         "bullets": [
-          "50-point inspection checklist",
-          "Dusting, vacuuming, mopping included",
-          "Kitchen and bathroom deep cleaning"
+          "Flexible scheduling – weekly, bi-weekly, monthly",
+          "Detailed checklist for every room",
+          "Special requests welcome at no extra charge"
         ],
         "reverse": true,
-        "cardLabel": "Deep Clean",
-        "cardTitle": "Thorough Service",
-        "cardBody": "We treat your home like our own – with meticulous attention to detail."
+        "cardLabel": "Your Way",
+        "cardTitle": "Personalized Service",
+        "cardBody": "Tell us what matters most, and we’ll make it spotless."
       }
     ],
-    "whyTitle": "Why Choose Reyes Maids?",
+    "whyTitle": "Why Dallas Homeowners Choose Reyes Maids",
     "whyChooseUs": [
       {
-        "title": "Reliable & Punctual",
-        "description": "We arrive on time, every time, and complete the job within the estimated window."
+        "title": "Bonded & Insured",
+        "description": "Your home and belongings are protected with full liability insurance and bonding."
       },
       {
-        "title": "Fully Insured",
-        "description": "Your home and belongings are protected with our comprehensive liability insurance."
-      },
-      {
-        "title": "Customizable Plans",
-        "description": "Choose from weekly, bi-weekly, or monthly cleanings – or a one-time deep clean."
+        "title": "Trained Professionals",
+        "description": "Every cleaner undergoes rigorous background checks and hands-on training."
       },
       {
         "title": "Satisfaction Guaranteed",
-        "description": "If you're not happy, we'll re-clean any area for free."
+        "description": "If you’re not thrilled, we’ll re-clean for free – no questions asked."
+      },
+      {
+        "title": "Eco-Friendly Practices",
+        "description": "We prioritize green products that are safe for kids, pets, and the planet."
       }
     ],
     "testimonials": [
       {
-        "quote": "Reyes Maids transformed my apartment. They were thorough, friendly, and left everything spotless. Highly recommend!",
-        "author": "Jessica L.",
-        "role": "Uptown Resident"
+        "quote": "Reyes Maids transformed my home! They’re thorough, punctual, and so friendly. I’ve never been happier with a cleaning service.",
+        "author": "Sarah M.",
+        "role": "Uptown Dallas Homeowner"
       },
       {
-        "quote": "I've tried several cleaning services, but Reyes Maids is by far the best. They pay attention to details and use safe products.",
-        "author": "Mark T.",
-        "role": "Lakewood Homeowner"
+        "quote": "Finally, a cleaning company that listens. They customized a plan for my busy family and the results are amazing.",
+        "author": "James L.",
+        "role": "Lakewood Resident"
       },
       {
-        "quote": "Professional, punctual, and the house smelled amazing after they left. Will definitely book again.",
-        "author": "Amanda R.",
-        "role": "Bishop Arts District"
+        "quote": "I love that they use non-toxic products – my toddler can crawl around safely right after they leave. Highly recommend!",
+        "author": "Emily R.",
+        "role": "Oak Lawn Mom"
       }
     ],
     "cta": {
-      "headline": "Ready for a Cleaner Home?",
-      "subheadline": "Schedule your free consultation today and see the Reyes Maids difference.",
+      "headline": "Ready for a Spotless Home?",
+      "subheadline": "Book your first cleaning today and see the Reyes Maids difference.",
       "primaryCta": "Get a Free Quote",
       "secondaryCta": "Call (682) 485-8592"
     }
   },
   "servicesPage": {
-    "intro": "At Reyes Maids, we offer a full range of house cleaning services tailored to your needs. Whether you need a one-time deep clean or regular maintenance, our team delivers consistent, high-quality results."
+    "intro": "From quick touch-ups to deep cleans, Reyes Maids offers a full range of house cleaning services in Dallas. Choose the plan that fits your lifestyle."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Standard House Cleaning",
-      "shortDescription": "Regular maintenance cleaning for a consistently clean home.",
-      "longDescription": "Our standard cleaning service covers all the essentials: dusting, vacuuming, mopping, kitchen and bathroom cleaning, and more. Perfect for weekly or bi-weekly upkeep.",
+      "title": "Standard Cleaning",
+      "shortDescription": "Regular maintenance to keep your home fresh and tidy.",
+      "longDescription": "Our standard cleaning covers all the essentials – dusting, vacuuming, mopping, kitchen and bathroom sanitation – leaving your home consistently clean.",
       "benefits": [
-        "Consistent cleanliness week after week",
-        "Frees up your time for what matters",
-        "Extends the life of surfaces and furnishings"
+        "Affordable weekly or bi-weekly service",
+        "All surfaces dusted and wiped",
+        "Kitchen and bathroom disinfected",
+        "Floors swept, mopped, and vacuumed"
       ],
       "process": [
         {
@@ -134,58 +135,59 @@
           "description": "We review your priorities and any special instructions."
         },
         {
-          "title": "Cleaning",
-          "description": "Our team follows a detailed checklist to clean every room."
+          "title": "Clean",
+          "description": "Our team systematically cleans each room using our checklist."
         },
         {
-          "title": "Final Inspection",
-          "description": "We walk through with you to ensure satisfaction."
+          "title": "Inspection",
+          "description": "A final walkthrough ensures every detail meets our standards."
         }
       ],
       "faqs": [
         {
-          "question": "How long does a standard clean take?",
-          "answer": "Typically 1-3 hours depending on home size and condition."
+          "question": "How long does a standard cleaning take?",
+          "answer": "Typically 2-3 hours depending on home size."
         },
         {
           "question": "Do I need to be home?",
-          "answer": "Not necessarily. Many clients provide a key or code for access."
+          "answer": "Not at all – we can use a lockbox or key code."
         }
       ],
-      "slug": "standard-house-cleaning"
+      "slug": "standard-cleaning"
     },
     {
       "icon": "02",
       "title": "Deep Cleaning",
-      "shortDescription": "A thorough, top-to-bottom clean for neglected areas.",
-      "longDescription": "Our deep cleaning service goes beyond the surface to tackle grime, dust, and dirt in every nook and cranny. Ideal for move-in/move-out or seasonal refreshes.",
+      "shortDescription": "Intensive cleaning for neglected areas and tough grime.",
+      "longDescription": "Our deep cleaning goes beyond the surface to tackle built-up dirt, grime, and allergens. Perfect for move-ins, move-outs, or seasonal refreshes.",
       "benefits": [
-        "Reaches hidden dirt and allergens",
-        "Restores the look and feel of your home",
-        "Perfect for new move-ins or post-renovation"
+        "Inside appliances, cabinets, and baseboards",
+        "Blinds, light fixtures, and window sills",
+        "Tile grout scrubbed and disinfected",
+        "All vents and ceiling fans cleaned"
       ],
       "process": [
         {
           "title": "Assessment",
-          "description": "We identify high-traffic areas and stubborn spots."
+          "description": "We identify high-priority areas needing extra attention."
         },
         {
           "title": "Deep Scrub",
-          "description": "We scrub, wipe, and polish all surfaces, inside and out."
+          "description": "Using specialized tools and eco-friendly products to remove grime."
         },
         {
-          "title": "Sanitization",
-          "description": "We disinfect high-touch areas for a healthier home."
+          "title": "Final Polish",
+          "description": "Every surface is wiped and polished for a like-new finish."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I deep clean?",
+          "question": "How often should I get a deep clean?",
           "answer": "We recommend every 3-6 months for optimal home hygiene."
         },
         {
-          "question": "Do you clean inside appliances?",
-          "answer": "Yes, we can include oven, fridge, and microwave interiors upon request."
+          "question": "Does deep cleaning include windows?",
+          "answer": "Yes, interior windows and sills are included."
         }
       ],
       "slug": "deep-cleaning"
@@ -193,123 +195,126 @@
     {
       "icon": "03",
       "title": "Move-In/Move-Out Cleaning",
-      "shortDescription": "Make moving easier with a spotless clean for your old or new home.",
-      "longDescription": "Our move-in/move-out service ensures your property is in pristine condition for the next occupants or for your own fresh start. We cover every detail so you can focus on the move.",
+      "shortDescription": "Stress-free cleaning for your transition.",
+      "longDescription": "Make your move easier with a thorough cleaning that leaves the old home spotless for the next owner and your new home fresh for you.",
       "benefits": [
-        "Helps you get your security deposit back",
-        "Saves time and stress during moving",
-        "Leaves a great impression on buyers or landlords"
+        "Full deep clean of entire home",
+        "Inside cabinets, drawers, and closets",
+        "All floors, walls, and trim detailed",
+        "Refrigerator and oven cleaned inside and out"
       ],
       "process": [
         {
-          "title": "Pre-Clean Walkthrough",
-          "description": "We note any specific areas needing extra attention."
+          "title": "Pre-Move Walkthrough",
+          "description": "We note specific areas to focus on for your move."
         },
         {
-          "title": "Full-Service Cleaning",
-          "description": "We clean all rooms, including windows, baseboards, and blinds."
+          "title": "Full Clean",
+          "description": "Every corner is cleaned, from baseboards to ceiling fans."
         },
         {
-          "title": "Final Check",
-          "description": "We ensure every surface is spotless and ready for move-in."
+          "title": "Final Touch",
+          "description": "We ensure no spots are missed and leave the home move-in ready."
         }
       ],
       "faqs": [
         {
-          "question": "Do you clean carpets?",
-          "answer": "We offer basic spot cleaning; for full carpet shampooing, we recommend a specialist."
+          "question": "Can you clean on moving day?",
+          "answer": "Yes, we can work around your schedule – even same-day service."
         },
         {
-          "question": "Can you work around my furniture?",
-          "answer": "Yes, we can clean around furniture or move small items as needed."
+          "question": "Do you clean the garage too?",
+          "answer": "Absolutely, it can be added for an additional fee."
         }
       ],
       "slug": "move-inmove-out-cleaning"
     },
     {
       "icon": "04",
-      "title": "Eco-Friendly Cleaning",
-      "shortDescription": "Green cleaning solutions for a healthy home and planet.",
-      "longDescription": "Our eco-friendly cleaning service uses only non-toxic, biodegradable products that are safe for children, pets, and the environment. Enjoy a clean home without harsh chemicals.",
+      "title": "Eco-Friendly Green Cleaning",
+      "shortDescription": "Powerful clean without harsh chemicals.",
+      "longDescription": "Our green cleaning service uses plant-based, biodegradable products that are safe for your family, pets, and the environment – without sacrificing effectiveness.",
       "benefits": [
-        "Reduces exposure to harmful chemicals",
-        "Environmentally responsible",
-        "Leaves no chemical residue on surfaces"
+        "Non-toxic, hypoallergenic products",
+        "Safe for children and pets",
+        "Reduces indoor air pollution",
+        "Same thorough clean, greener approach"
       ],
       "process": [
         {
           "title": "Product Selection",
-          "description": "We choose EPA Safer Choice certified products."
+          "description": "We choose from our certified green product line."
         },
         {
-          "title": "Gentle Cleaning",
-          "description": "We use microfiber and plant-based cleaners for effective yet safe cleaning."
+          "title": "Green Clean",
+          "description": "Microfiber cloths and HEPA vacuums trap allergens, not spread them."
         },
         {
-          "title": "Green Verification",
-          "description": "We confirm all products used are eco-friendly and explain the benefits."
+          "title": "Eco Check",
+          "description": "We confirm all waste is disposed of responsibly."
         }
       ],
       "faqs": [
         {
-          "question": "Are the products really safe for pets?",
-          "answer": "Yes, all our green products are non-toxic and pet-safe."
+          "question": "Are your green products as effective?",
+          "answer": "Yes – they meet or exceed conventional cleaners in lab tests."
         },
         {
-          "question": "Is eco-friendly cleaning as effective?",
-          "answer": "Absolutely. Modern green cleaners are just as powerful as traditional ones."
+          "question": "Do you charge extra for green cleaning?",
+          "answer": "No, it’s included at no additional cost."
         }
       ],
-      "slug": "eco-friendly-cleaning"
+      "slug": "eco-friendly-green-cleaning"
     }
   ],
   "about": {
-    "headline": "Dallas’s Home Cleaning Specialists",
-    "mission": "To provide exceptional, eco-friendly cleaning services that make every home shine while respecting the environment.",
+    "headline": "About Reyes Maids – Your Local Cleaning Partner",
+    "mission": "To provide Dallas families with a healthier, cleaner home through reliable, eco-friendly cleaning services that exceed expectations.",
     "story": [
-      "Reyes Maids was founded by Monarca Home Services with a simple mission: deliver reliable, high-quality house cleaning that Dallas families can count on. We started with a small team and a commitment to using safe, effective products. Over the years, we’ve grown into a trusted name in home cleaning, serving hundreds of satisfied customers across the city.",
-      "Our team is trained, insured, and passionate about cleanliness. We believe that a clean home creates peace of mind, and we take pride in being part of our clients’ lives. Whether it’s a weekly touch-up or a deep clean before a special occasion, we treat every home with the same care and attention we would our own."
+      "Reyes Maids was founded in 2014 by Maria Reyes, a Dallas native who saw the need for trustworthy, high-quality house cleaning in her community. Starting with just a bucket and a dream, she built a team of dedicated professionals who share her passion for cleanliness and customer care. Today, Reyes Maids is part of Monarca Home Services, serving hundreds of homes across Dallas with the same personal touch that started it all.",
+      "We believe that a clean home is the foundation of a happy life. That’s why we invest in training, eco-friendly products, and a satisfaction guarantee. Every cleaner is bonded, insured, and background-checked – because your trust is our most valuable asset."
     ],
     "highlight": {
-      "stat": "200+",
-      "label": "Homes Cleaned"
+      "stat": "10+",
+      "label": "Years of Service in Dallas"
     },
     "coreValues": [
       {
-        "title": "Reliability",
-        "description": "We show up on time and deliver consistent results every visit."
+        "title": "Integrity",
+        "description": "We do what we say – on time, every time."
       },
       {
-        "title": "Transparency",
-        "description": "No hidden fees, clear communication, and honest pricing."
-      },
-      {
-        "title": "Quality",
-        "description": "We use proven methods and high standards to ensure a thorough clean."
+        "title": "Excellence",
+        "description": "No shortcuts, just meticulous attention to detail."
       },
       {
         "title": "Sustainability",
-        "description": "We prioritize eco-friendly practices to protect our planet."
+        "description": "Protecting your home and the planet with green practices."
+      },
+      {
+        "title": "Community",
+        "description": "Proudly serving and supporting our Dallas neighbors."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch",
-    "subheadline": "Ready for a cleaner home? Contact us today for a free quote.",
-    "primaryCta": "Call (682) 485-8592",
-    "formCta": "Request a Free Quote",
+    "headline": "Get Your Free Cleaning Estimate",
+    "subheadline": "Tell us about your home and we’ll provide a custom quote within 24 hours.",
+    "primaryCta": "Book Now",
+    "formCta": "Request a Quote",
     "serviceAreas": [
       "Dallas",
       "Uptown",
       "Lakewood",
-      "Bishop Arts District",
       "Oak Lawn",
       "Highland Park",
-      "University Park"
+      "Park Cities",
+      "Addison",
+      "Plano"
     ]
   },
   "social_proof": {
-    "rating": 4.2,
+    "rating": "",
     "reviews": null
   },
   "meta": {
